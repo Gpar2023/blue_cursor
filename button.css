@@ -1,2 +1,2 @@
 button:hover { cursor: url('https://cdn.jsdelivr.net/gh/Gpar2023/blue_cursor@main/pointer.svg'), pointer; }
-html { url('https://cdn.jsdelivr.net/gh/Gpar2023/blue_cursor@main/cursor.svg') }
+html { cursor:url('https://cdn.jsdelivr.net/gh/Gpar2023/blue_cursor@main/cursor.svg'),cursor; }
